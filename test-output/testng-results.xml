@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="374" started-at="2018-11-08T04:38:20Z" finished-at="2018-11-08T04:38:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="374" started-at="2018-11-08T04:38:20Z" finished-at="2018-11-08T04:38:21Z">
+      <class name="net.bill99.httpClient.HttpClientDemo">
+        <test-method status="PASS" signature="test3()[pri:0, instance:net.bill99.httpClient.HttpClientDemo@391fc13d]" name="test3" duration-ms="364" started-at="2018-11-08T12:38:20Z" finished-at="2018-11-08T12:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- net.bill99.httpClient.HttpClientDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
